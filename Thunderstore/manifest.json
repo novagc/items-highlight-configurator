@@ -1,0 +1,12 @@
+﻿{
+	"name": "ItemsHighlightConfigurator",
+	"version_number": "1.0.0",
+	"author": "NovaGC",
+	"description": "Items highlight color configurator",
+	"website_url": "https://github.com/novagc/items-highlight-configurator",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-R2API_Core-5.1.5",
+		"Rune580-Risk_Of_Options-2.8.2"
+	]
+}
